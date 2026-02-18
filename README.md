@@ -100,10 +100,6 @@ Este material é disponibilizado para fins educacionais. Sinta-se livre para ada
 
 Desenvolvido para disciplinas de NoSQL em cursos de pós-graduação em Big Data.
 
-## 🤝 Contribuições
-
-Sugestões e melhorias são bem-vindas! Abra uma issue ou pull request.
-
 ---
 
 **Versão:** 1.0  

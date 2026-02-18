@@ -229,7 +229,7 @@ db.movies.findOne({}, { _id: 0 })
 
 ---
 
-## 📤 Entrega
+## 📤 Entrega ( ver SEND_EXAM.md )
 
 ### Checklist Final
 
